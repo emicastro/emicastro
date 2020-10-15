@@ -1,6 +1,5 @@
 ### Hi there, I'm Emilio - aka [emicastro][website] 👋
 
-[![Website](https://img.shields.io/website?label=emicastro&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://emicastro.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/emicastroo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=emicastro)
 
 ## I'm a Software Developer
