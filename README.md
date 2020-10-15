@@ -73,7 +73,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Emi Castro's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=emicastro&show_icons=true&hide_border=true&count_private=true" />
+  <img align="left" alt="Emi Castro's GitHub Stats" src="https://github-readme-stats-kappa-three.vercel.app/api?username=emicastro&show_icons=true&hide_border=true&count_private=true" />
+  
+  ![Top Langs](https://github-readme-stats-kappa-three.vercel.app/api/top-langs/?username=emicastro&layout=compact)
 
 </details>
 
