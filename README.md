@@ -65,6 +65,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/emicastro/blog/pull/1) in [emicastro/blog](https://github.com/emicastro/blog)
+2. 💪 Opened PR [#1](https://github.com/emicastro/blog/pull/1) in [emicastro/blog](https://github.com/emicastro/blog)
 <!--END_SECTION:activity-->
 
 </details>
