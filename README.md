@@ -65,8 +65,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/emicastro/blog/pull/1) in [emicastro/blog](https://github.com/emicastro/blog)
-2. 💪 Opened PR [#1](https://github.com/emicastro/blog/pull/1) in [emicastro/blog](https://github.com/emicastro/blog)
+1. 🎉 Merged PR [#1](https://github.com/emicastro/You-Dont-Know-JS/pull/1) in [emicastro/You-Dont-Know-JS](https://github.com/emicastro/You-Dont-Know-JS)
+2. 💪 Opened PR [#1](https://github.com/emicastro/You-Dont-Know-JS/pull/1) in [emicastro/You-Dont-Know-JS](https://github.com/emicastro/You-Dont-Know-JS)
 <!--END_SECTION:activity-->
 
 </details>
