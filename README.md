@@ -2,15 +2,15 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/emicastroo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=emicastro)
 
-## I'm a Software Developer
+## I'm a Software Engineer currently working at [<img align="center" alt="mercadolibre.com" width="22px" src="https://assets.entrepreneur.com/images/misc/1584487204_LOGOCODOS_fondoblanco-01.png?width=1000" />][current-company]
 
-- 👨🏻‍💻 Currently, I'm building solutions at [<img align="center" alt="mercadolibre.com" width="22px" src="https://assets.entrepreneur.com/images/misc/1584487204_LOGOCODOS_fondoblanco-01.png?width=1000" />][current-company]
-- 🔭 I'm very curious and a life-long learner
-- 🌱 I’m currently learning more about FP *λ*
+- 👨🏻‍💻 Currently, I'm currently learning more about [Distributed Systems](https://www.amazon.com/gp/product/1449373321)
+- 🔭 I'm passionate about Science, specially Physics!
+- 🌱 I’m worried about Climate Change and read a lot about it
+- 📚 I read a lot about Climate Change, Economics and Philosophy
 - 👯 I’m looking to contribute more to Open Source projects
-- 🥅 2020 Goal: Start to create content about technology
-- 🏁 2021 Goal: Learn a more about Machine Learning
-- ⚡ Fun fact: I love to read and play guitar
+- 🥅 2021 Goal: Create content about technology
+- ⚡ Fun fact: I love to read Science Fiction and Philosophy
 
 ### Spotify Playing 🎧
 
@@ -27,26 +27,25 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="30px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="30px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-<img align="left" alt="Go" width="30px" src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg">
-
-<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="30px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" />
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Java" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR94mmHJ068E-fdAUpsKvL8j7pF9KVetNzb7A&usqp=CAU">
-<img align="left" alt="Kotlin" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
+<img style="vertical-align: middle;" alt="Visual Studio Code" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img style="vertical-align: middle;" alt="HTML5" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img style="vertical-align: middle;" alt="CSS3" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img style="vertical-align: middle;" alt="TailwindCSS" width="30px" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" />
+<img style="vertical-align: middle;" alt="Sass" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img style="vertical-align: middle;" alt="JavaScript" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img style="vertical-align: middle;" alt="React" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img style="vertical-align: middle;" alt="Svelte" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/498px-Svelte_Logo.svg.png" />
+<img style="vertical-align: middle;" alt="GraphQL" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" />
+<img style="vertical-align: middle;" alt="Node.js" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img style="vertical-align: middle;" alt="Deno" height="30px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
+<img style="vertical-align: middle;" alt="Go" height="30px" src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg">
+<img style="vertical-align: middle;" alt="MySQL" height="30px" src="https://upload.wikimedia.org/wikipedia/en/e/ee/MySQL_Logo.png" />
+<img style="vertical-align: middle;" alt="PostgreSLQ" height="30px" src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" />
+<img style="vertical-align: middle;" alt="MongoDB" height="30px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" />
+<img style="vertical-align: middle;" alt="Git" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" />
+<img style="vertical-align: middle;" alt="Python" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img style="vertical-align: middle;" alt="Java" height="30px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png">
+<img style="vertical-align: middle;" alt="Kotlin" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
 
 <br />
 <br />
