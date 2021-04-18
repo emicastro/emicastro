@@ -2,21 +2,34 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/emicastroo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=emicastro)
 
-## I'm a Software Engineer currently working at [<img align="center" alt="mercadolibre.com" width="22px" src="https://assets.entrepreneur.com/images/misc/1584487204_LOGOCODOS_fondoblanco-01.png?width=1000" />][current-company]
+## I'm a self-thought Software Engineer who's
 
-- 👨🏻‍💻 Currently, I'm currently learning more about [Distributed Systems](https://www.amazon.com/gp/product/1449373321)
+- 📌 Currently working at [Mercado Libre][current-company] and living in [Buenos Aires](https://goo.gl/maps/7HmyDMUHuLdAw17Z7).
+- 🛠 Building microservices with Java, [Go](https://golang.org/) and [Node](https://nodejs.org/en/).
+- 👨🏻‍💻 Learning more about [Distributed Systems](https://www.amazon.com/gp/product/1449373321)
+- 🩸 Becoming and [Elixir](https://elixir-lang.org/) enthusiast.
+- 📝 Writing about software engineering in [my blog](https://blog.emicastro.com).
+
+> ### 2021 Goal
+> 
+> Create content about Software Engineering and contribute to Open Source.
+
+### ⚡ 7 Fun facts
+
 - 🔭 I'm passionate about Science, specially Physics!
-- 🌱 I’m worried about Climate Change and read a lot about it
-- 📚 I read a lot about Climate Change, Economics and Philosophy
-- 👯 I’m looking to contribute more to Open Source projects
-- 🥅 2021 Goal: Create content about technology
-- ⚡ Fun fact: I love to read Science Fiction and Philosophy
+- 🌱 I'm concerned about Climate Change and I'm learning more about it.
+- 📚 I enjoy reading about Science, Economics and Philosophy.
+- 🤖 I'm fan of hard Science Fiction.
+- 🎸 I like to play guitar when I can.
+- ✍ I draw since I was a child but not as often as I'd like.
+- 🥋 I practice martial arts since I was a kid.
+
 
 ### Spotify Playing 🎧
 
 [<img src="https://spotify-now-playing-ten-eta.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/emicastro1993)
 
-### Connect with me:
+### Connect with me
 
 [<img align="left" alt="emicastro.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="emicastro | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -25,27 +38,41 @@
 
 <br />
 
-### Languages and Tools:
+### My top picks🏅
 
-<img style="vertical-align: middle;" alt="Visual Studio Code" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img style="vertical-align: middle;" alt="JavaScript" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<img style="vertical-align: middle;" alt="Node.js" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+
+<img style="vertical-align: middle;" alt="Go" height="30px" src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg">
+
+<img style="vertical-align: middle;" alt="Elixir" height="30px" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Elixir_programming_language_logo.png" />
+
+<img style="vertical-align: middle;" alt="Phoenix" height="30px" src="https://seeklogo.com/images/P/phoenix-logo-D15F067911-seeklogo.com.png" />
+
+
+### Other Languages and Tools
+
+<img style="vertical-align: middle;" alt="Visual Studio Code" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img style="vertical-align: middle;" alt="HTML5" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img style="vertical-align: middle;" alt="CSS3" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img style="vertical-align: middle;" alt="TailwindCSS" width="30px" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" />
 <img style="vertical-align: middle;" alt="Sass" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img style="vertical-align: middle;" alt="JavaScript" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img style="vertical-align: middle;" alt="React" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img style="vertical-align: middle;" alt="Svelte" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/498px-Svelte_Logo.svg.png" />
 <img style="vertical-align: middle;" alt="GraphQL" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" />
-<img style="vertical-align: middle;" alt="Node.js" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img style="vertical-align: middle;" alt="Deno" height="30px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-<img style="vertical-align: middle;" alt="Go" height="30px" src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg">
-<img style="vertical-align: middle;" alt="MySQL" height="30px" src="https://upload.wikimedia.org/wikipedia/en/e/ee/MySQL_Logo.png" />
-<img style="vertical-align: middle;" alt="PostgreSLQ" height="30px" src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" />
-<img style="vertical-align: middle;" alt="MongoDB" height="30px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" />
-<img style="vertical-align: middle;" alt="Git" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" />
+<img style="vertical-align: middle;" alt="Deno" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Deno.svg/1200px-Deno.svg.png" />
 <img style="vertical-align: middle;" alt="Python" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img style="vertical-align: middle;" alt="Java" height="30px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png">
 <img style="vertical-align: middle;" alt="Kotlin" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
+<img style="vertical-align: middle;" alt="Git" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" />
+<img style="vertical-align: middle;" alt="Docker" height="35px" src="https://iconape.com/wp-content/files/cr/55190/svg/docker.svg" />
+<img style="vertical-align: middle;" alt="PostgreSLQ" height="30px" src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" />
+<img style="vertical-align: middle;" alt="MySQL" height="30px" src="https://upload.wikimedia.org/wikipedia/en/e/ee/MySQL_Logo.png" />
+<img style="vertical-align: middle;" alt="MongoDB" height="30px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" />
+<img style="vertical-align: middle;" alt="Jenkins" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
+<img style="vertical-align: middle;" alt="Kafka" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/473px-Apache_kafka.svg.png" />
+<img style="vertical-align: middle;" alt="AWS" width="30px" src="https://images.ctfassets.net/lpjm8d10rkpy/6GIrtBy1QABNIFNcnyKxo1/8e651d482fe0e350280991535b171582/aws.svg" />
 
 <br />
 <br />
