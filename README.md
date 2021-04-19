@@ -7,7 +7,7 @@
 - 📌 Currently working at [Mercado Libre][current-company] and living in [Buenos Aires](https://goo.gl/maps/7HmyDMUHuLdAw17Z7).
 - 🛠 Building microservices with Java, [Go](https://golang.org/) and [Node](https://nodejs.org/en/).
 - 👨🏻‍💻 Learning more about [Distributed Systems](https://www.amazon.com/gp/product/1449373321)
-- 🩸 Becoming and [Elixir](https://elixir-lang.org/) enthusiast.
+- 🩸 Becoming an [Elixir](https://elixir-lang.org/) enthusiast.
 - 📝 Writing about software engineering in [my blog](https://blog.emicastro.com).
 
 > ### 2021 Goal
