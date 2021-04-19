@@ -72,6 +72,12 @@
 <img align="left" style="vertical-align: middle;" alt="Jenkins" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
 <img align="left" style="vertical-align: middle;" alt="Kafka" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/473px-Apache_kafka.svg.png" />
 <img align="left" style="vertical-align: middle;" alt="AWS" width="30px" src="https://images.ctfassets.net/lpjm8d10rkpy/6GIrtBy1QABNIFNcnyKxo1/8e651d482fe0e350280991535b171582/aws.svg" />
+<img align="left" style="vertical-align: middle;" alt="New Relic" width="30px" src="https://newrelic.com/themes/custom/curio/assets/mediakit/NR_logo_Horizontal_Rev.png" />
+<img align="left" style="vertical-align: middle;" alt="Datadog" width="30px" src="https://cdn.worldvectorlogo.com/logos/datadog.svg" />
+<img align="left" style="vertical-align: middle;" alt="Elasticsearch" width="30px" src="https://cdn.worldvectorlogo.com/logos/elastic-elasticsearch.svg" />
+<img align="left" style="vertical-align: middle;" alt="Kibana" width="30px" src="https://cdn.worldvectorlogo.com/logos/elastic-kibana.svg" />
+<img align="left" style="vertical-align: middle;" alt="Opsgenie" width="25px" src="https://seeklogo.com/images/O/opsgenie-logo-4371B345F2-seeklogo.com.png" />
+<img align="left" style="vertical-align: middle;" alt="Jira" height="25px" src="https://seeklogo.com/images/J/jira-logo-FD39F795A7-seeklogo.com.png" />
 
 <br />
 <br />
