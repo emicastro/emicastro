@@ -38,51 +38,6 @@
 
 <br />
 
-### My top picks🏅
-
-<img align="left" style="vertical-align: middle;" alt="JavaScript" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" style="vertical-align: middle;" alt="Node.js" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" style="vertical-align: middle;" alt="Go" height="30px" src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg">
-<img align="left" style="vertical-align: middle;" alt="Elixir" height="30px" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Elixir_programming_language_logo.png" />
-<img align="left" style="vertical-align: middle;" alt="Phoenix" height="30px" src="https://seeklogo.com/images/P/phoenix-logo-D15F067911-seeklogo.com.png" />
-
-<br />
-
-### Other Languages and Tools
-
-<img align="left" style="vertical-align: middle;" alt="Visual Studio Code" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" style="vertical-align: middle;" alt="HTML5" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" style="vertical-align: middle;" alt="CSS3" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" style="vertical-align: middle;" alt="TailwindCSS" width="30px" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" />
-<img align="left" style="vertical-align: middle;" alt="Sass" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" style="vertical-align: middle;" alt="React" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" style="vertical-align: middle;" alt="Svelte" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/498px-Svelte_Logo.svg.png" />
-<img align="left" style="vertical-align: middle;" alt="GraphQL" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" />
-
-<br />
-<br />
-
-<img align="left" style="vertical-align: middle;" alt="Python" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" style="vertical-align: middle;" alt="Deno" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Deno.svg/1200px-Deno.svg.png" />
-<img align="left" style="vertical-align: middle;" alt="Java" height="30px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png">
-<img align="left" style="vertical-align: middle;" alt="Docker" height="30px" src="https://iconape.com/wp-content/files/cr/55190/svg/docker.svg" />
-<img align="left" style="vertical-align: middle;" alt="PostgreSLQ" height="30px" src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" />
-<img align="left" style="vertical-align: middle;" alt="MySQL" height="30px" src="https://upload.wikimedia.org/wikipedia/en/e/ee/MySQL_Logo.png" />
-<img align="left" style="vertical-align: middle;" alt="MongoDB" height="35px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" />
-<img align="left" style="vertical-align: middle;" alt="Jenkins" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
-<img align="left" style="vertical-align: middle;" alt="Kafka" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/473px-Apache_kafka.svg.png" />
-<img align="left" style="vertical-align: middle;" alt="AWS" width="30px" src="https://images.ctfassets.net/lpjm8d10rkpy/6GIrtBy1QABNIFNcnyKxo1/8e651d482fe0e350280991535b171582/aws.svg" />
-<img align="left" style="vertical-align: middle;" alt="New Relic" width="30px" src="https://newrelic.com/themes/custom/curio/assets/mediakit/NR_logo_Horizontal_Rev.png" />
-<img align="left" style="vertical-align: middle;" alt="Datadog" width="30px" src="https://cdn.worldvectorlogo.com/logos/datadog.svg" />
-<img align="left" style="vertical-align: middle;" alt="Elasticsearch" width="30px" src="https://cdn.worldvectorlogo.com/logos/elastic-elasticsearch.svg" />
-<img align="left" style="vertical-align: middle;" alt="Kibana" width="30px" src="https://cdn.worldvectorlogo.com/logos/elastic-kibana.svg" />
-<img align="left" style="vertical-align: middle;" alt="Opsgenie" width="25px" src="https://seeklogo.com/images/O/opsgenie-logo-4371B345F2-seeklogo.com.png" />
-<img align="left" style="vertical-align: middle;" alt="Jira" height="25px" src="https://seeklogo.com/images/J/jira-logo-FD39F795A7-seeklogo.com.png" />
-
-<br />
-<br />
-
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
