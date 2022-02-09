@@ -2,25 +2,26 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/emicastroo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=emicastro)
 
-## I'm a self-thought Software Engineer who's
+## I'm a Software Engineer who's
 
-- 📌 Currently working at [Mercado Libre][current-company] and living in [Buenos Aires](https://goo.gl/maps/7HmyDMUHuLdAw17Z7).
-- 🛠 Building microservices with Java, [Go](https://golang.org/) and [Node](https://nodejs.org/en/).
+- 📌 Currently living in [Buenos Aires, Argentina](https://goo.gl/maps/7HmyDMUHuLdAw17Z7).
+- 🏝 Taking a break from work to be with my family and explore new things (ending soon).
 - 👨🏻‍💻 Learning more about [Distributed Systems](https://www.amazon.com/gp/product/1449373321)
-- 🩸 Becoming an [Elixir](https://elixir-lang.org/) enthusiast.
 - 📝 Writing about software engineering in [my blog](https://blog.emicastro.com).
+- 🛠 Last work was building microservices with Java, Go and Node at [Mercado Libre][last-company].
 
-> ### 2021 Goal
+> ### 2022 Goals
 > 
-> Create content about Software Engineering and contribute to Open Source.
+> ✍🏽 Create content about Software Engineering and contribute to Open Source.
+> 
+> 👷 Get a new job as a Software Engineer in a company with great people and challenging projects!
 
-### ⚡ 7 Fun facts
+### ⚡ Fun facts
 
-- 🔭 I'm passionate about Science, specially Physics!
-- 🌱 I'm concerned about Climate Change and I'm learning more about it.
-- 📚 I enjoy reading about Science, Economics and Philosophy.
+- 🔭 I'm interested in Science, specially Physics!
+- 🗣 I like to learn new languages (currently learning German and French) 
+- 📚 Reading is very important in my life. I love it.
 - 🤖 I'm fan of hard Science Fiction.
-- 🎸 I like to play guitar when I can.
 - ✍ I draw since I was a child but not as often as I'd like.
 - 🥋 I practice martial arts since I was a kid.
 
@@ -67,7 +68,7 @@
 </details>
 
 [website]: https://www.emicastro.com
-[current-company]: https://www.mercadolibre.com.ar
+[last-company]: https://www.mercadolibre.com.ar
 [twitter]: https://twitter.com/emicastroo
 [linkedin]: https://www.linkedin.com/in/emicastro/?locale=en_US
 [instagram]: https://www.instagram.com/emicastroo
