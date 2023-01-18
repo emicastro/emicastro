@@ -50,15 +50,6 @@ Just a guy looking to make my developer workflow smoother and faster, build resi
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Emi Castro's GitHub Stats" src="https://github-readme-stats-kappa-three.vercel.app/api?username=emicastro&show_icons=true&hide_border=true&count_private=true" />
-  
-  ![Top Langs](https://github-readme-stats-kappa-three.vercel.app/api/top-langs/?username=emicastro&layout=compact)
-
-</details>
-
 [website]: https://www.emicastro.com
 [last-company]: https://www.mercadolibre.com.ar
 [twitter]: https://twitter.com/emicastroo
