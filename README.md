@@ -42,7 +42,7 @@ Just a guy looking to make my developer workflow smoother and faster, build resi
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/emicastro/You-Dont-Know-JS/pull/1) in [emicastro/You-Dont-Know-JS](https://github.com/emicastro/You-Dont-Know-JS)
 2. 💪 Opened PR [#1](https://github.com/emicastro/You-Dont-Know-JS/pull/1) in [emicastro/You-Dont-Know-JS](https://github.com/emicastro/You-Dont-Know-JS)
@@ -52,11 +52,8 @@ Just a guy looking to make my developer workflow smoother and faster, build resi
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Emi Castro's GitHub Stats - Dark" src="https://github-readme-stats-emicastro.vercel.app/api?username=emicastro&show_icons=true&hide_border=true&count_private=true&theme=merko#gh-dark-mode-only" />
-  
-  ![Top Langs - Dark](https://github-readme-stats-emicastro.vercel.app/api/top-langs/?username=emicastro&hide=dart,groovy,html,css&exclude_repo=podcasts,xchange,gatsby-blog,netflix,wildfire-tracker,next-ts-starter,react-todo-app,starter-blog,mosaic,merchandisy,nesfli,emicastro.github.io,rompecabezas,portfolio-template,pixelArt_maker,ciudad_zombie,margaret_hamilton_tribute,simplePage,invie,sitionoticias,efectoParallax&layout=compact&count_private=true&hide_border=true&theme=merko#gh-dark-mode-only)
-
+  <img align="center" alt="Emi Castro's GitHub Stats - Dark" src="https://github-readme-stats-emicastro.vercel.app/api?username=emicastro&show_icons=true&card_width=400px&hide_border=true&count_private=true&theme=merko#gh-dark-mode-only" />
+  <img align="center" alt="Top Langs - Dark" src="https://github-readme-stats-emicastro.vercel.app/api/top-langs/?username=emicastro&hide=dart,groovy,html,css&exclude_repo=podcasts,xchange,gatsby-blog,netflix,wildfire-tracker,next-ts-starter,react-todo-app,starter-blog,mosaic,merchandisy,nesfli,emicastro.github.io,rompecabezas,portfolio-template,pixelArt_maker,ciudad_zombie,margaret_hamilton_tribute,simplePage,invie,sitionoticias,efectoParallax&layout=compact&count_private=true&hide_border=true&theme=merko#gh-dark-mode-only" />
 </details>
 
 [website]: https://www.emicastro.com
